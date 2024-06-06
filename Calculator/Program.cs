@@ -34,6 +34,7 @@ namespace CalculatorApp
         public static void HandleException(Exception ex)
         {
             Console.WriteLine($"Error: {ex.Message}");
+            Console.WriteLine("Please try again.");
         }
     }
 
