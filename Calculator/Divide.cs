@@ -8,7 +8,7 @@ namespace Calculator
 {
     public class Divide
     {
-        public static int DivideTwoNumbers(int a, int b)
+        public static double DivideTwoNumbers(double a, double b)
         {
             if (b == 0)
             {
