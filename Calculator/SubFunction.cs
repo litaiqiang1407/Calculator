@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CalculatorApp
+namespace Calculator
 {
     public class SubFunction
     {
