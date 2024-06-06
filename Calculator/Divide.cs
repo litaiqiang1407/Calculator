@@ -12,7 +12,7 @@ namespace Calculator
         {
             if (b == 0)
             {
-                throw new DivideByZeroException();
+                Console.WriteLine("Cannot divide by zero");
             }
             return a / b;
         }
